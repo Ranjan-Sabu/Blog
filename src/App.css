@@ -1,0 +1,36 @@
+.fact{
+  background-color: rgb(255, 185, 127);
+  width: 100%;
+  text-align: center;
+  
+}
+.fact2{
+  background-color: rgb(204, 228, 192);
+  width: 50vh;
+  margin-left: 350px;
+  border: 2px solid blue;
+  border-radius: 20px;
+ padding: 10px;
+}
+.App{
+height: 100vh;
+text-align: center;
+background-color: rgb(255, 180, 127);
+}
+.addbtn{
+  text-align: center;
+}
+.add{
+  text-align: center;
+  background-color: rgb(255, 180, 127) ;
+  height: 100vh;
+}
+.input{
+  background-color: antiquewhite;
+}
+.text{
+  background-color: rgb(201, 191, 210);
+}
+.me-1{
+  background-color: aqua;
+}
